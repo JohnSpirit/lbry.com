@@ -42,15 +42,15 @@ IP 地址 | | 否，使用VPN来隐藏 | 所有人 | 任何对LBRY服务的访�
 
 数据类型 | LBRY 桌面应用程序 | lbry.tv 网页 | LBRY 安卓 App | LBRY SDK（软件开发工具包） |
 :------------ |:------------ |:------------ | :-------------| :-------------|
-Email addresses | 是 | 是 | 是 | 否 |
-User preferences | 是 | 是 | 是 | 否 |
-System information | 是 | 否 | 是 | 是 |
-Identity verification | 是 | 是 | 是 | 否 |
+电子邮箱地址 | 是 | 是 | 是 | 否 |
+用户偏好设置 | 是 | 是 | 是 | 否 |
+系统信息 | 是 | 否 | 是 | 是 |
+身份验证 | 是 | 是 | 是 | 否 |
 Google Analytics |可选，默认否| 否 | 是 | 否 |
-Content access analytics | 是 | 是 | 是 | 是 |
-IP addresses | 是 | 是 | 是 | 可选，默认是 |
-Blockchain metadata | 是 | 是 | 是 | 否 |
-Blockchain transactions | 是 | 是 | 是 | 是 |
+内容访问分析数据 | 是 | 是 | 是 | 是 |
+IP地址 | 是 | 是 | 是 | 可选，默认是 |
+区块链元数据 | 是 | 是 | 是 | 否 |
+区块链交易记录 | 是 | 是 | 是 | 是 |
 
 ## 账户数据和加密货币钱包有什么区别？
 
