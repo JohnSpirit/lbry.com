@@ -22,7 +22,7 @@
 请翻译content.chs（对应简体中文）、content.cht（对应繁体中文）中faq目录下的文件。测试时，将content.*目录下的文件覆盖到content目录下。content.eng为原始文件，请勿更改。
 
 ## 联系方式
-请联系 [@JohnSpirit](https://github.com/JohnSpirit) (johnspirit2001@gmail.com)。
+请联系 [@JohnSpirit](https://github.com/JohnSpirit) (Email:johnspirit2001@gmail.com，Telegram:[@JaSpirit](https://t.me/JaSpirit))。
 
 ## 开发日志
 
@@ -31,3 +31,10 @@
 2021.1.7 v0.0.9 - 完成FAQ第一部分简体中文版的翻译。
 
 2021.1.1 v0.0.1 - 网站beta版上线。
+
+## 捐助与推广
+开发者[@JohnSpirit](https://github.com/JohnSpirit)的[LBRY频道](https://lbry.tv/$/invite/@johnspirit:0)（不知道发点什么，就摆在这儿吧）
+
+开发者[@JohnSpirit](https://github.com/JohnSpirit)的LBRY钱包地址：bZt6tVNXzu4qxQv7vPKaj7kcvMGMnT9wDr
+
+LBRY[@BiliSubs](https://lbry.tv/$/invite/@BiliSubs:6)，精选Bilibili视频
